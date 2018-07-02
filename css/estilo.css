@@ -1,0 +1,58 @@
+﻿body{
+    background-color:#d7d7d7;
+}
+
+.navlogo{
+    height:65px;
+    width:85px;
+}
+
+.titulo-sec{
+    background-color:#808080;
+    text-align:center;
+    padding-bottom:67px;
+    padding-top:67px;
+}
+
+.mn-gal{
+    
+    text-align:center;
+    height:780px;
+    padding-top:67px;
+}
+
+h3{
+    color:#ffffff;
+}
+
+.img-crd{
+    height:200px;
+    width:200px;
+}
+
+.card1{
+    border-radius:80px 10px 0px 0px;
+}
+
+.card2{
+    border-radius:80px 10px 80px 10px;
+}
+
+.cardpad{
+    padding:75px;
+}
+
+.gallery
+{
+   padding:55px;
+}
+
+.imgmodal{
+    height:90px;
+    width:70px;
+}
+
+.modal-dialog-fix {
+    max-width: 90vw;
+    max-height: 95vh;
+}
